@@ -1,8 +1,7 @@
 <?php
 /******************************************************************************
  * This file is part of the MyErrHandler package. You can always find the latest
- * version of this class and project at:
- * https://github.com/ionux/custom-php-error-handler
+ * version of this project at: https://github.com/ionux/custom-php-error-handler
  *
  * @license Copyright 2014 Rich Morgan <rich@bitpay.com>, MIT License 
  * see https://github.com/ionux/custom-php-error-handler/blob/master/LICENSE
