@@ -1,6 +1,6 @@
 Customizable PHP Error Handler (custom-php-error-handler)
 ========================
-<strong>Copyright (c) 2014 Rich Morgan, rich@bitpay.com</strong>
+<strong>Copyright (c) 2014-2016 Rich Morgan, rich@richmorgan.me</strong>
 
 
 Description
