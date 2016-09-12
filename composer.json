@@ -1,0 +1,42 @@
+{
+    "name": "ionux/custom-php-error-handler",
+    "description": "This is a custom, flexible and configurable error handler useful for debugging. It writes the specified level of error messages to a log file and can be set to either bypass or not bypass the internal PHP error handler. Also can log backtraces of the function calls and the complete context of variables present at the time of the error.",
+    "keywords": ["error","handler","backtrace","debugging","error_reporting","errlevel","message","log","context"],
+    "homepage": "https://github.com/ionux/custom-php-error-handler",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Rich Morgan",
+            "email": "rich@richmorgan.me",
+            "role": "Creator and Lead Developer"
+        }
+    ],
+    "repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/ionux/custom-php-error-handler.git"
+		}
+	],
+    "support": {
+        "issues": "https://github.com/ionux/custom-php-error-handler/issues",
+        "email": "rich@richmorgan.me",
+        "source": "https://github.com/ionux/custom-php-error-handler"
+    },
+    "autoload": {
+        "psr-4": {
+            "CPEH\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CPEH\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.5.0",
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.1.3"
+    }
+}
