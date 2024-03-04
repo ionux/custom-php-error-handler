@@ -1,6 +1,6 @@
 Customizable PHP Error Handler (custom-php-error-handler)
 ========================
-<strong>Copyright (c) 2014-2023 Rich Morgan, rich@richmorgan.me</strong>
+<strong>Copyright (c) 2014-2024 Rich Morgan, rich@richmorgan.me</strong>
 
 
 Description
