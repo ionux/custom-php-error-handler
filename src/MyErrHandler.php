@@ -3,7 +3,7 @@
  * This file is part of the MyErrHandler package. You can always find the latest
  * version of this project at: https://github.com/ionux/custom-php-error-handler
  *
- * @license Copyright 2014-2023 Rich Morgan <rich@richmorgan.me>, MIT License 
+ * @license Copyright 2014-2024 Rich Morgan <rich@richmorgan.me>, MIT License 
  * see https://github.com/ionux/custom-php-error-handler/blob/master/LICENSE
  ******************************************************************************/
 
